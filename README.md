@@ -23,7 +23,7 @@ Just a couple of items at the moment: [WanaKanaSwift], a Swift wrapper for a Jav
 
 #### Microcontrollers, etc.
 
-A few miscellaneous projects using Arduino, ESP8266 and ohter microcontrollers include [cryptoticker], [microlife], and [nodelife].
+A few miscellaneous projects using Arduino, ESP8266 and other microcontrollers include [cryptoticker], [microlife], and [nodelife].
 
 [AppLister]: https://github.com/profburke/AppLister
 [Blink(1)]: https://blink1.thingm.com/
